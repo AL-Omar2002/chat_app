@@ -1,0 +1,6 @@
+[1] Main return is:
+    MaterialApp(debugShowCheckedModeBanner, home)
+[2] Scaffold Widget:
+    (backgroundColor, appBar, body)
+[3] TextField => decoration
+    InputDecoration(hintText, hintStyle, enableBorder)
